@@ -1,0 +1,14 @@
+{% extends 'nbar.html' %}
+
+{% block title %}
+
+{% endblock %}
+
+{% block body %}
+<h2> Book Reviews </h2>
+{% for review in all_reviews %}
+    <br>{{review.id}}  {{review.name}}
+
+    <br>{{review.book_id}} {{review.content}} <a href="{{ url_for('updatereview', id = review.id) }}"><button type="button">Update</button></a><a href="{{ url_for('deletereview', id = review.id) }}"><button type="button">Delete</button></a> </p><br>
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,12 @@
+{% extends 'nbar.html' %}
+
+{% block title %}
+<!-- <title>Books list</title> -->
+{% endblock %}
+
+{% block body %}
+<h2> book List </h2>
+{% for book in all_books %}
+    {{book.id}} {{book.title}} {{book.genre}} {{book.author}} <a href="{{ url_for('updatebook', id = book.id) }}"><button type="button">Update</button></a><a href="{{ url_for('deletebook', id = book.id) }}"><button type="button">Delete</button></a> </p><br>
+{% endfor %}
+{% endblock %}

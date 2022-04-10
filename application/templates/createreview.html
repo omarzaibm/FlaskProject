@@ -1,0 +1,11 @@
+{% extends 'nbar.html' %} 
+
+{% block body %}
+<h3>Please Enter Your Review and BookID</h3>
+<form action="" method="POST">
+    {{ form.hidden_tag() }}
+    {{ form.name.label }} {{ form.name }}
+    {{ form.content.label }} {{ form.content }}
+    {{ form.submit }} {{ form.book_id }}
+</form>
+{% endblock body %}

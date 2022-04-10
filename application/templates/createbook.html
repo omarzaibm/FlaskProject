@@ -1,0 +1,13 @@
+{% extends 'nbar.html' %} 
+
+{% block body %}
+<h1>Please Enter Your Book Details</h1>
+<form action="" method="POST">
+    {{ form.hidden_tag() }}
+    {{ form.title.label }} {{ form.title }}
+    {{ form.genre.label }} {{ form.genre }}
+    {{ form.author.label }} {{ form.author }}
+    {{ form.submit }}
+</form>
+{% endblock body %}
+
