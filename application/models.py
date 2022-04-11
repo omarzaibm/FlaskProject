@@ -3,6 +3,10 @@ from flask_wtf import FlaskForm
 from wtforms import StringField, IntegerField, SelectField, SubmitField
 from sqlalchemy import Integer
 
+#Classes related to Review
+#ForgeinKey used
+#import and install flask forms to use forms 
+
 class Book(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     title = db.Column(db.String(60), nullable=False)

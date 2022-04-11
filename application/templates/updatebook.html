@@ -4,10 +4,7 @@
     {% block body %}
 <form action="{{ url_for('updatebook', id = id) }}" method="POST">
     {{ form.hidden_tag() }}
-    {{ form.title.label }} {{ form.title }}
-    {{ form.genre.label }} {{ form.genre }}
-    {{ form.author.label }} {{ form.author }}
-    {{ form.submit }}
+    {{ form.title.label }} {{ form.title }} {{ form.genre.label }} {{ form.genre }} {{ form.author.label }} {{ form.author }} {{ form.submit }}
 </form>
 {% endblock body %}
 </body>
