@@ -41,11 +41,16 @@ Epics were created to outline what tasks were needed for completion this was bas
 
 mySQL was used as databases and was connected through an virtual environment on the google cloud platform
 
+![image](https://user-images.githubusercontent.com/98025347/162745966-3936fc7a-f1fd-4ec8-8d81-9320a24b9324.png)
+
+
+mySQL was used to create databases and viewed creation through workbench mySQL
+
+![image](https://user-images.githubusercontent.com/98025347/162746657-f5fcc858-5643-4f7f-a4e8-2d7dc158ebaf.png)
+![image](https://user-images.githubusercontent.com/98025347/162746734-19930bfd-e73a-4395-95d4-64a30eb4f61c.png)
 
 
 
-![image](https://user-images.githubusercontent.com/98025347/157770504-aeabbf3c-f56e-4336-9d5d-d1239c849ff0.png)
 
-mySQL was used to create databases and command line interface was navigated to see if tables were created with data input.
 
-![image](https://user-images.githubusercontent.com/98025347/157770728-50ba1501-c86e-4167-8780-b4f25fab3ea4.png)
+
