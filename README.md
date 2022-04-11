@@ -75,4 +75,11 @@ Moreover, this followed by testing on a "db.create" which essentially would crea
 
 FrontEnd was created through simplistic html designs - the purpose of this project was to create a CRUD and utilise, the python language and be able to main a hosted virtual environment, so very little styling was done, however the navigation bar can be attributed to the bootstrap website as this was a template for public viewing - https://getbootstrap.com/docs/4.0/components/navbar/
 
+The crud functionality was succesfully created and implemented
+
+![image](https://user-images.githubusercontent.com/98025347/162750345-b4b4d166-cec9-4cb1-9e75-6728a65602ba.png)
+![image](https://user-images.githubusercontent.com/98025347/162750420-b1a5144f-ab4d-4e9d-a6e4-547e8f81dc60.png)
+![image](https://user-images.githubusercontent.com/98025347/162750499-44b67a88-dd70-44b0-9754-d78ab96120f4.png)
+
+
 
