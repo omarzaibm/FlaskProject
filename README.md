@@ -34,6 +34,7 @@ Epics were created to outline what tasks were needed for completion this was bas
 
 ![image](https://user-images.githubusercontent.com/98025347/162742593-48db66f2-8ad3-4734-9632-1d8b1f556631.png)
 
+![image](https://user-images.githubusercontent.com/98025347/162754385-716882ed-2332-4773-9514-061bbff7f9ef.png)
 
 
 
@@ -72,9 +73,13 @@ Visual Studio Code was created a flask project, a class was created for routes, 
 ### Unit Tests 
 pytests Testing was used for this project with an overall coverage of 86.%, 102 lines of code were tested and 14 were untested, due to time constraints. I firsted tested the end point responses to my routes, with the aim of recieving a status_code 200, these were to ensure all end points and routes were correctley functioning.
 
+I also used similar testing through postman, which acted as a pseudo frontend (see below)
+
 Moreover, this followed by testing on a "db.create" which essentially would create a database and check for the attributes i assigned (as seen below). Futhermore I deeper tested the routes and was able to test all create, read and update methods in the application.
 
 ![image](https://user-images.githubusercontent.com/98025347/162749475-f4b5e00d-e0b5-4fb3-9af3-551304cb303f.png)
+
+![image](https://user-images.githubusercontent.com/98025347/162754687-074e5fc6-8f05-406d-a50d-31d8fbbf73e7.png)
 
 
 ## FrontEnd Creation
