@@ -32,7 +32,8 @@ Project Management tool Jira was used to plan this project.
 Epics were created to outline what tasks were needed for completion this was based on project specifications outlined by QA Trainers and was completed in a one week sprint.
 
 
-![image](https://user-images.githubusercontent.com/98025347/157769798-1c247925-7f44-4099-abcc-1ab06256561b.png)
+![image](https://user-images.githubusercontent.com/98025347/162742593-48db66f2-8ad3-4734-9632-1d8b1f556631.png)
+
 
 
 
@@ -41,3 +42,10 @@ Epics were created to outline what tasks were needed for completion this was bas
 mySQL was used as databases and was connected through an virtual environment on the google cloud platform
 
 
+
+
+![image](https://user-images.githubusercontent.com/98025347/157770504-aeabbf3c-f56e-4336-9d5d-d1239c849ff0.png)
+
+mySQL was used to create databases and command line interface was navigated to see if tables were created with data input.
+
+![image](https://user-images.githubusercontent.com/98025347/157770728-50ba1501-c86e-4167-8780-b4f25fab3ea4.png)
