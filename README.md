@@ -34,6 +34,8 @@ Epics were created to outline what tasks were needed for completion this was bas
 
 ![image](https://user-images.githubusercontent.com/98025347/162742593-48db66f2-8ad3-4734-9632-1d8b1f556631.png)
 
+An ERD diagram was used to see the relationship between the two tables in SQL
+
 ![image](https://user-images.githubusercontent.com/98025347/162754385-716882ed-2332-4773-9514-061bbff7f9ef.png)
 
 
