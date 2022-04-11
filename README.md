@@ -80,6 +80,7 @@ The crud functionality was succesfully created and implemented
 ![image](https://user-images.githubusercontent.com/98025347/162750345-b4b4d166-cec9-4cb1-9e75-6728a65602ba.png)
 ![image](https://user-images.githubusercontent.com/98025347/162750420-b1a5144f-ab4d-4e9d-a6e4-547e8f81dc60.png)
 ![image](https://user-images.githubusercontent.com/98025347/162750499-44b67a88-dd70-44b0-9754-d78ab96120f4.png)
+![image](https://user-images.githubusercontent.com/98025347/162750771-c19de2b4-76cd-48c1-9bd2-24629ef58825.png)
 
 
 
