@@ -27,6 +27,9 @@ A Flask application will react with a MySQL Database, HTML to create a fully fun
 ```
 
 ## Application Planning Stages.
+Risk Assesment
+![image](https://user-images.githubusercontent.com/98025347/163869765-ab81772d-9a00-4a8a-af2b-a0f448af5f93.png)
+
 
 Project Management tool Jira was used to plan this project.
 Epics were created to outline what tasks were needed for completion this was based on project specifications outlined by QA Trainers and was completed in a one week sprint.
