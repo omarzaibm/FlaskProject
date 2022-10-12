@@ -1,4 +1,4 @@
-This project required me to create an application that will use a CRUD Functionalty that will allow the user to manage a Book Library.
+This project will create an application that will use a CRUD Functionalty that will allow the user to manage a Book Library.
 
 - Project Management Tools - Jira Kanban Board and Github.
 - Databases - mySQL
@@ -32,7 +32,7 @@ Risk Assesment
 
 
 Project Management tool Jira was used to plan this project.
-Epics were created to outline what tasks were needed for completion this was based on project specifications outlined by QA Trainers and was completed in a one week sprint.
+Epics were created to outline what tasks were needed for completion and was completed in a one week sprint.
 
 
 ![image](https://user-images.githubusercontent.com/98025347/162742593-48db66f2-8ad3-4734-9632-1d8b1f556631.png)
@@ -57,7 +57,7 @@ mySQL was used to create databases and viewed creation through workbench mySQL
 
 ## Flask BackEnd Creation
 
-Visual Studio Code was created a flask project, a class was created for routes, models and templates folder for HTML, an instance was created on Google Cloud Platform to connect the virtual machine to visual studio code and the flask project.
+a class was created for routes, models and templates folder for HTML, an instance was created on Google Cloud Platform to connect the virtual machine to visual studio code and the flask project.
 
 ![image](https://user-images.githubusercontent.com/98025347/162752548-cfb22e72-e07c-45fc-a99d-b1cc65904417.png)
 
@@ -76,7 +76,7 @@ Visual Studio Code was created a flask project, a class was created for routes, 
 ![image](https://user-images.githubusercontent.com/98025347/162748444-42ff9530-8238-4d65-baaa-4162df979e87.png)
 
 ### Unit Tests 
-pytests Testing was used for this project with an overall coverage of 86.%, 102 lines of code were tested and 14 were untested, due to time constraints. I firsted tested the end point responses to my routes, with the aim of recieving a status_code 200, these were to ensure all end points and routes were correctley functioning.
+pytests Testing was used for this project with an overall coverage of 86.%, 102 lines of code were tested and 14 were untested, due to time constraints. I first tested the end point responses to my routes, with the aim of recieving a status_code 200, these were to ensure all end points and routes were correctley functioning.
 
 I also used similar testing through postman, which acted as a pseudo frontend (see below)
 
